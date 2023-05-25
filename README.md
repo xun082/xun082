@@ -4,8 +4,8 @@
 
 <a href="https://github.com/xun082">
   <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Melody&show_icons=true&theme=" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melody&hide=html&layout=compact" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Melody&show_icons=true&theme=dark" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Melody&repo=react-cli" />
  </div>
 </a>
 
