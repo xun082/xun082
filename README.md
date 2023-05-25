@@ -2,6 +2,13 @@
 - 📫 Email: 2042204285@qq.com
 - 💻 掘金: https://juejin.cn/user/3782764966460398/posts
 
+<a href="https://github.com/xun082">
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Melody&show_icons=true&theme=" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melody&hide=html&layout=compact" />
+ </div>
+</a>
+
 <h2>我的作品🚩</h2>
 
 | 项目名称                                                            | 简介                                 | 类型     |
