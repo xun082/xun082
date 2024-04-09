@@ -13,6 +13,7 @@
       height="200px"
     />
     <a href="https://astro.badg.es/v1/contributor/xun082/">
+  <img src="https://github-readme-stats.vercel.app/api?username=xun082&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="Ned's GitHub stats" style="zoom:100%;" align="left"/>
   <img src="https://astro.badg.es/v1/contributor/xun082.svg" alt="@xun082 Astro contributions" width="300" height="200">
 </a>
 
