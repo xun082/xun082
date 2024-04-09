@@ -6,14 +6,8 @@
 <br>
 
 <a href="https://github.com/xun082">
-  <div align="center">
-  <img
-      src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=3782764966460398&theme=dark"
-      alt="Moment的掘金数据"
-      height="200px"
-    />
-    <a href="https://astro.badg.es/v1/contributor/xun082/">
-  <img src="https://github-readme-stats.vercel.app/api?username=xun082&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="Ned's GitHub stats" style="zoom:100%;" align="left"/>
+  <div >
+  <img src="https://github-readme-stats.vercel.app/api?username=xun082&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="Moment's GitHub stats" style="zoom:100%;" align="left"/>
   <img src="https://astro.badg.es/v1/contributor/xun082.svg" alt="@xun082 Astro contributions" width="300" height="200">
 </a>
 
@@ -22,10 +16,10 @@
 
 <h2>我的作品🚩</h2>
 
-| 项目名称                                                      | 简介                                 | 类型     |
-| ------------------------------------------------------------- | ------------------------------------ | -------- |
-| <a href="https://github.com/xun082/create-neat">Create Neat</a> | 一个开箱即用的前端脚手架工具         | 开源项目 |
-| <a href="https://github.com/xun082/online-cooperative-edit">在线协同代码编辑器</a>      | 一个基于 webrtc 实现的在线协同编辑器 | 开源项目 |
+| 项目名称                                                                           | 简介                                 | 类型     |
+| ---------------------------------------------------------------------------------- | ------------------------------------ | -------- |
+| <a href="https://github.com/xun082/create-neat">Create Neat</a>                    | 一个开箱即用的前端脚手架工具         | 开源项目 |
+| <a href="https://github.com/xun082/online-cooperative-edit">在线协同代码编辑器</a> | 一个基于 webrtc 实现的在线协同编辑器 | 开源项目 |
 
 <br>
 
