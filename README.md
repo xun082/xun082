@@ -8,8 +8,8 @@
 <a href="https://github.com/xun082">
   <div >
   <a href="https://github.com/xun082#gh-light-mode-only">
-  <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=xun082&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />
-</a>
+    <img src="https://github-readme-stats.vercel.app/api?username=xun082" />
+  </a>
   <img src="https://astro.badg.es/v1/contributor/xun082.svg" alt="@xun082 Astro contributions" width="300" height="200">
 </a>
 
