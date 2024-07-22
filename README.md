@@ -6,8 +6,10 @@
 <br>
 
 <a href="https://github.com/xun082">
-   <img src="https://github-readme-stats.vercel.app/api?username=xun082" />
-   <img src="https://astro.badg.es/v1/contributor/xun082.svg" alt="@xun082 Astro contributions" width="300" height="200">
+   <div style="display: flex; align-items: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=xun082" style="margin-right: 20px;" />
+      <img src="https://astro.badg.es/v1/contributor/xun082.svg" alt="@xun082 Astro contributions" width="300" height="200">
+   </div>
 </a>
 
  </div>
