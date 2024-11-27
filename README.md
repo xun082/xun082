@@ -20,7 +20,7 @@
 <h2>技术栈</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,js,ts,webpack,nodejs,nestjs,md" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,webpack,nodejs,nestjs,md,docker,redis,mysql" />
   </a>
 </p>
 
