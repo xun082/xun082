@@ -10,13 +10,27 @@
   <img src="https://img.shields.io/badge/WeChat-yunmz777-brightgreen?logo=wechat" />
 </p>
 
-<p>
-  💻 <b>Node.js 全栈开发者</b>：深耕前端工程化与 React 源码，专注高可维护、高性能应用构建。<br>
-  🤖 <b>AI 应用探索者</b>：实践 RAG、向量数据库与大模型落地，推动 AI 能力在业务中的运用。<br>
-  🚀 <b>效率驱动者</b>：融合工程化思维与 AI 技术，用自动化与智能化提升研发效率与体验。
+<p align="center">
+  <strong>AI 全栈工程师</strong><br>
+  Desktop Coding Agent · Document Agent · TipTap
 </p>
 
-## 🧰 技术栈
+<p align="center">
+  专注桌面 Coding Agent 与文档 Agent 的工程落地<br>
+  TipTap 深度开发 · 以 React / Node.js 构建可交付的 Agent 系统
+</p>
+
+<h3 align="center">
+  📚 <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMTYxMTIwMQ==&action=getalbum&album_id=4552947265564508165&from_itemidx=1&from_msgid=2247489113#wechat_redirect">前端 Agent 进阶指南</a>
+</h3>
+
+<p align="center">
+  面向前端与全栈的 AI Agent 付费专栏<br>
+  覆盖 Prompt、Context Engineering、Tool Calling、Agent Loop、<br>
+  多 Agent 协作、Skill 体系与生产级工程实践
+</p>
+
+<h2 align="center">🧰 技术栈</h2>
 
 <div align="center">
 
@@ -27,17 +41,12 @@
   <!-- Node & 后端 -->
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,rabbitmq,redis,mysql,docker,prisma" />
 
-  <!-- AI / LLM（JS 生态） -->
-  <br>
-  <img src="https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain.js-333333?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-00C7B7?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0077B5?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <!-- AI / Agent（JS 生态）— 官方 skillicons 暂无这些图标，用兼容 fork -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,langchain,vercel" />
 
 </div>
 
-## 📊 GitHub 统计
+<h2 align="center">📊 GitHub 统计</h2>
 
 <p align="center">
   <img src="https://readme-stats-fast.vercel.app/api?username=xun082&show_icons=true&include_all_commits=true" alt="GitHub Stats" height="160" />
